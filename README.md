@@ -1,1 +1,1 @@
-Snippets data science python projects
+Snippets for data science python projects
